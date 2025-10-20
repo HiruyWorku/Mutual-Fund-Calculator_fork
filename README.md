@@ -1,5 +1,7 @@
 # Mutual Fund Calculator
 
+<img width="1718" height="993" alt="GS" src="https://github.com/user-attachments/assets/53ea53fe-c1d1-485f-877b-0589668a6ef1" />
+
 ## Introduction
 Mutual Fund Calculator is a **full-stack web application** designed to help users estimate potential returns on their **mutual fund investments**. Users can:
 - Select a **mutual fund ticker**
@@ -52,6 +54,7 @@ This project serves as an **educational tool** for college students at a **sopho
 📖 **[More Definitions](https://www.investopedia.com/)**
 
 ---
+![6eeab936-7ce6-4074-9225-c4fbe2a5ff65](https://github.com/user-attachments/assets/f49452f5-8cb5-474d-b38d-a1b54be87177)
 
 ## 📈 Mutual Fund Prediction Formula
 The **future value (FV)** is calculated using the **Capital Asset Pricing Model (CAPM)**:
